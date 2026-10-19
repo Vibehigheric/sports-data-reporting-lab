@@ -1,0 +1,89 @@
+SPORTS DATA REPORTING LAB - LIMITED EVALUATION LICENSE
+Version 1.0 | October 19, 2026
+Licensor: Richard Jones
+Contact: IAMDIGITAL.ENT@GMAIL.COM
+Copyright 2026 Richard Jones, to the extent copyright subsists and is owned
+by the Licensor. All rights not expressly granted are reserved.
+
+1. COVERED MATERIAL AND RIGHTS
+This license covers Licensor-controlled code and documentation distributed
+with this file (the Software). It does not claim rights in third-party
+software, public-domain material, facts, methods, general skills, or material
+for which Licensor has no enforceable rights. Third-party licenses govern
+their own components. This is a source-available, not an open-source, license.
+
+2. LIMITED PERMISSION
+Subject to these terms, Licensor grants a nonexclusive, worldwide,
+royalty-free, nontransferable permission to download, inspect, locally run,
+and privately modify the Software solely for personal study or internal
+non-production evaluation, including evaluation by a prospective business
+customer. Keep this license and applicable notices with permitted copies.
+No purchase or support entitlement results from evaluation.
+
+3. RESERVED COMMERCIAL AND DISTRIBUTION RIGHTS
+Except for section 4 or a separate written license, permission is NOT granted
+to resell, sublicense, distribute or publicly host the Software or modified
+versions; incorporate it into a distributed product; use it in production;
+or use it to provide paid services or operate a hosted service for others.
+Commercial permission must be obtained in writing from Licensor. Viewing
+source, paying for advice, or submitting an inquiry does not itself purchase
+commercial rights. These restrictions concern the Software and do not
+prohibit independently developed work or use of general knowledge.
+
+4. LEGAL AND PLATFORM EXCEPTIONS
+Nothing in this license restricts rights that cannot lawfully be restricted,
+applicable statutory exceptions, or rights already granted under applicable
+hosting-platform terms. In particular, publication on GitHub remains subject
+to the applicable GitHub Terms of Service, including platform-granted rights
+to view and fork public repositories. This license does not purport to revoke
+those rights or make public code confidential.
+
+5. AUTHORIZED AND SAFE USE
+Run the Software only on systems and data you are authorized to use. Review
+the code, maintain appropriate backups and test in isolation before any
+separately licensed production deployment. No permission is granted to access
+another person's account, bypass access controls or impersonate Licensor.
+No endorsement, trademark license or professional certification is granted.
+
+6. NO WARRANTY OR SUPPORT
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED
+"AS IS" AND "AS AVAILABLE," WITHOUT EXPRESS OR IMPLIED WARRANTIES, INCLUDING
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+NO PROMISE IS MADE THAT IT IS ERROR-FREE, SECURE, COMPATIBLE WITH YOUR SYSTEM,
+OR CAPABLE OF REPAIRING A PARTICULAR PROBLEM. NO MAINTENANCE, UPDATE, RESPONSE
+TIME, CUSTOMER SUPPORT OR SUCCESSFUL OUTCOME IS INCLUDED IN THIS LICENSE.
+
+7. LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, LICENSOR SHALL NOT BE LIABLE
+FOR INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES,
+INCLUDING LOST PROFITS, LOST DATA OR BUSINESS INTERRUPTION ARISING FROM THIS
+EVALUATION LICENSE OR THE SOFTWARE. LICENSOR'S AGGREGATE LIABILITY UNDER THIS
+EVALUATION LICENSE SHALL NOT EXCEED US $100. THESE LIMITATIONS DO NOT EXCLUDE
+LIABILITY FOR FRAUD, WILLFUL MISCONDUCT, GROSS NEGLIGENCE OR OTHER LIABILITY
+THAT APPLICABLE LAW DOES NOT PERMIT TO BE LIMITED. MANDATORY CONSUMER RIGHTS
+REMAIN UNAFFECTED. A SEPARATE PAID AGREEMENT MAY SET DIFFERENT TERMS.
+
+8. TERMINATION
+Permissions granted by this license terminate upon material breach. Stop
+uses dependent on those permissions and remove copies not otherwise lawfully
+retained. This does not revoke platform-granted or mandatory legal rights.
+Sections addressing reserved rights, warranty, liability and interpretation
+survive termination to the extent applicable.
+
+9. PAID WORK AND CUSTOMER MATERIALS
+This license is not a services contract, authorization for remote access,
+privacy agreement or agreement to process customer data. Paid engagements
+require separately agreed scope, price, authorization, acceptance criteria,
+data handling and deliverable rights. Licensor claims no ownership of a
+customer's pre-existing code, credentials, records or diagnostic output
+merely because the customer runs the Software.
+
+10. INTERPRETATION
+New York law governs to the extent permitted, without displacing mandatory
+protections applicable to the user. An unenforceable provision is severable
+to the extent lawful. This license cannot create intellectual-property rights
+where none exist. Later versions do not automatically change permissions for
+copies already licensed under this version. Any broader license must be
+agreed in writing by Licensor. Contractual enforcement depends on applicable
+law and legally sufficient notice and assent; mere public viewing is not
+represented as acceptance of a contract.

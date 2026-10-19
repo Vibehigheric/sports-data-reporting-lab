@@ -1,0 +1,5 @@
+event_id,sport,home,away,start_utc,book,selection,decimal_odds,observed_utc
+DEMO-001,MLB,Demo Home,Demo Away,2026-10-19T23:00:00Z,Example Book A,Demo Home,1.90,2026-10-19T17:58:00Z
+DEMO-001,MLB,Demo Home,Demo Away,2026-10-19T23:00:00Z,Example Book B,Demo Home,1.95,2026-10-19T17:59:00Z
+DEMO-001,MLB,Demo Home,Demo Away,2026-10-19T23:00:00Z,Example Book A,Demo Away,2.00,2026-10-19T17:58:00Z
+DEMO-001,MLB,Demo Home,Demo Away,2026-10-19T23:00:00Z,Example Book C,Demo Away,2.10,2026-10-19T16:00:00Z

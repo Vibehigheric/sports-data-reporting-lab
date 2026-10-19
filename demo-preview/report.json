@@ -1,0 +1,36 @@
+{
+  "as_of": "2026-10-19T18:00:00Z",
+  "market": "two-way full-game moneyline only",
+  "input_rows": 4,
+  "eligible_rows": 3,
+  "excluded_rows": 1,
+  "best_observed_prices": [
+    {
+      "event_id": "DEMO-001",
+      "sport": "MLB",
+      "home": "Demo Home",
+      "away": "Demo Away",
+      "start_utc": "2026-10-19T23:00:00Z",
+      "book": "Example Book B",
+      "selection": "Demo Home",
+      "decimal_odds": 1.95,
+      "observed_utc": "2026-10-19T17:59:00Z",
+      "implied_probability": 0.5128205128205129
+    },
+    {
+      "event_id": "DEMO-001",
+      "sport": "MLB",
+      "home": "Demo Home",
+      "away": "Demo Away",
+      "start_utc": "2026-10-19T23:00:00Z",
+      "book": "Example Book A",
+      "selection": "Demo Away",
+      "decimal_odds": 2.0,
+      "observed_utc": "2026-10-19T17:58:00Z",
+      "implied_probability": 0.5
+    }
+  ],
+  "status": "SNAPSHOT_COMPARISON_ONLY",
+  "warning": "Implied probability includes bookmaker margin. No fair probabilities, picks, EV or arbitrage claims. Confirm matching settlement rules separately.",
+  "synthetic": true
+}
