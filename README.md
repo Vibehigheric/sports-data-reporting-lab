@@ -32,3 +32,17 @@ Use client-owned data or a provider license covering the exact intended display 
 ## License
 
 Limited evaluation only under LICENSE.txt, not an open-source license. Richard Jones reserves commercial-use and redistribution rights to the extent legally held; GitHub platform and mandatory legal rights remain unaffected. AI-assisted implementation; copyright is not claimed where it does not exist. No warranty or support is included. The custom license is a draft requiring legal review before commercial reliance. A separate agreement is needed for production deployment or paid client use.
+
+
+## NFL leans and MLB player forecast reporting
+
+`forecast_report.py` displays existing user-supplied NFL leans and MLB player forecasts offline. It does not fit or run prediction models. The original MLB quote-comparison command remains unchanged.
+
+```sh
+python forecast_report.py --input forecast_demo.json --as-of 2026-10-20T17:00:00Z --output forecast-preview --synthetic
+python -m unittest discover -v
+```
+
+The JSON input is an array; `forecast_demo.json` documents the required fields. Each record needs sport (NFL or MLB), event_id, entity_id, market, period, selection, model_version, captured_at (timezone required), and the original status. MLB also requires player_id. Use an explicit exact line when applicable; probability may be absent/null and is never inferred from odds. Include start_utc when known. Extra fields such as original BPP, provenance, odds and uncertainty are retained unchanged in the nested `original` JSON record.
+
+**HELD labels remain intact.** The report always adds DISPLAY_ONLY_NOT_ADMITTED separately, even if a source claims CLEARED. Missing start time, future captures and historical events are flagged, not silently repaired. This is an archive/report adapter, not a pregame admission engine. It performs no API calls and will not overwrite an existing output directory. The input bytes are hashed. Do not publish private customer or licensed forecast data; the supplied example is synthetic only.
