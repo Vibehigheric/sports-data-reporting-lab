@@ -1,0 +1,29 @@
+[
+  {
+    "sport": "NFL",
+    "event_id": "synthetic-event",
+    "entity_id": "synthetic-team",
+    "market": "moneyline",
+    "period": "REGULATION",
+    "selection": "HOME",
+    "model_version": "SYNTHETIC_V1",
+    "captured_at": "2026-10-20T16:00:00Z",
+    "status": "HELD_LINEUP",
+    "probability": 0.55,
+    "line": null
+  },
+  {
+    "sport": "MLB",
+    "event_id": "synthetic-mlb-game",
+    "entity_id": "synthetic-batter",
+    "market": "batter_home_runs",
+    "period": "FULL_GAME_INCLUDING_EXTRAS",
+    "selection": "OVER",
+    "model_version": "SYNTHETIC_V1",
+    "captured_at": "2026-10-20T16:00:00Z",
+    "status": "HELD_PITCHERS_LINEUPS",
+    "probability": 0.16,
+    "line": 0.5,
+    "player_id": "synthetic-batter"
+  }
+]
